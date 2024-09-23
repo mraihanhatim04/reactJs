@@ -23,5 +23,3 @@ createRoot(document.getElementById("root")).render(
     </Provider>
   </StrictMode>
 );
-
-// Chapter 6 Performance Optimization - Menit : 16.30
